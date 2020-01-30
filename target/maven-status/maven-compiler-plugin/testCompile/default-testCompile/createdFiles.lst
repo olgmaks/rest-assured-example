@@ -1,0 +1,11 @@
+com/lits/test/models/AccessTokenData.class
+com/lits/test/models/UserModel.class
+com/lits/test/models/BookModel.class
+com/lits/test/LoginTest.class
+com/lits/test/IntegrationServicesFacade.class
+com/lits/test/ServiceIntegrationTemplate.class
+com/lits/test/ServiceIntegrationTemplate$1.class
+com/lits/test/models/LoginResponseModel.class
+com/lits/test/ServiceIntegrationTemplate$2.class
+com/lits/test/IntegrationServicesFacade$1.class
+com/lits/test/ServiceIntegrationTemplate$3.class
